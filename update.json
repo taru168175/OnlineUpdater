@@ -1,0 +1,11 @@
+{
+	"stub": {
+		"version": "1.0",
+		"force_update": false
+	},
+	"plugin": {
+		"version": "1.0",
+		"name": "KMODsLoader",
+		"url": "https://github.com/kp7742/PluginLoader/blob/main/release/app-debug.apk?raw=true"
+	}
+}
