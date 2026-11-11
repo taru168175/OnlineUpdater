@@ -1,10 +1,12 @@
 {
 	"stub": {
 		"version": "1.0",
-		"force_update": false
+		"force_update": false,
+		"url": "link here"
 	},
 	"plugin": {
-		"version": "1.0",
+		"version_code" : 1,
+		"version_name": "1.0",
 		"name": "GUI Injector",
 		"url": "https://github.com/taru168175/OnlineUpdater/raw/refs/heads/main/app-release.apk"
 	}
