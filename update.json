@@ -5,7 +5,7 @@
 	},
 	"plugin": {
 		"version": "1.0",
-		"name": "KMODsLoader",
-		"url": "https://github.com/taru168175/OnlineUpdater/raw/refs/heads/main/app-debug.apk"
+		"name": "GUI Injector",
+		"url": "https://github.com/taru168175/OnlineUpdater/raw/refs/heads/main/app-release.apk"
 	}
 }
